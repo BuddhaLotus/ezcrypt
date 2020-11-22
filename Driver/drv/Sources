@@ -1,0 +1,5 @@
+TARGETNAME=EZCrypt
+TARGETPATH=..\obj
+TARGETTYPE=DRIVER
+INCLUDES=..\inc
+SOURCES=filedisk.c filedisk.rc loop_fish2.c aes.c 

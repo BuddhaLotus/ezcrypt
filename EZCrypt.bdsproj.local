@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006-02-06 09:02:46.341.cpp,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit1.cpp=E:\EZCrypt\MainForm.cpp</Transaction>
+    <Transaction>2006-02-06 09:02:46.361.h,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit1.h=E:\EZCrypt\MainForm.h</Transaction>
+    <Transaction>2006-02-06 09:02:46.361.dfm,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit1.dfm=E:\EZCrypt\MainForm.dfm</Transaction>
+    <Transaction>2006-02-06 09:02:55.815.bdsproj,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Project1.bdsproj=E:\EZCrypt\EZCrypt.bdsproj</Transaction>
+    <Transaction>2006-02-06 16:16:20.768.h,E:\EZCrypt\Global.h=</Transaction>
+    <Transaction>2006-02-11 13:05:51.109.c,E:\EZCrypt\File1.c=E:\EZCrypt\Global.c</Transaction>
+    <Transaction>2006-02-15 15:20:15.558.cpp,E:\EZCrypt\Unit1.cpp=E:\EZCrypt\OptionForm.cpp</Transaction>
+    <Transaction>2006-02-15 15:20:15.578.h,E:\EZCrypt\Unit1.h=E:\EZCrypt\OptionForm.h</Transaction>
+    <Transaction>2006-02-15 15:20:15.578.dfm,E:\EZCrypt\Unit1.dfm=E:\EZCrypt\OptionForm.dfm</Transaction>
+    <Transaction>2007-08-03 08:58:41.265.cpp,D:\$DelNow\EZCrypt\Unit1.cpp=D:\$DelNow\EZCrypt\TestForm.cpp</Transaction>
+    <Transaction>2007-08-03 08:58:41.281.h,D:\$DelNow\EZCrypt\Unit1.h=D:\$DelNow\EZCrypt\TestForm.h</Transaction>
+    <Transaction>2007-08-03 08:58:41.281.dfm,D:\$DelNow\EZCrypt\Unit1.dfm=D:\$DelNow\EZCrypt\TestForm.dfm</Transaction>
+    <Transaction>2007-08-22 08:37:05.656.cpp,D:\EZCrypt\TestForm.cpp=</Transaction>
+    <Transaction>2007-08-22 08:37:05.671.dfm,D:\EZCrypt\TestForm.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>

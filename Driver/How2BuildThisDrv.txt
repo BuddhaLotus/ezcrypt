@@ -1,0 +1,5 @@
+1. Install 2003DDK,path maybe C:\WINDDK\3790.1830.
+2. Create env var DDKROOT=path as above,for example "DDKROOT=C:\WINDDK\3790.1830".
+3. Create WORKPATH=path of this file,for example "WORKPATH=d:\ezcrypt\driver."
+4. Run builddrv.bat with the driver name where this file on,such as "builddrv.bat d:".
+;-) that'a all
